@@ -1,0 +1,1 @@
+{"appName":"obs-grafana1","userGivenName":"obs-grafana1","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps\\obs-grafana1\\overlays\\obs-stack","srcRepoURL":"https://github.com/Cleanbeach/observability-stack.git","srcTargetRevision":"","labels":null}
