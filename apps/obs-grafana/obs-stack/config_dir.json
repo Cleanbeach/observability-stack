@@ -1,1 +1,0 @@
-{"appName":"obs-grafana","userGivenName":"obs-grafana","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"charts/grafana","srcRepoURL":"https://github.com/grafana/helm-charts.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
